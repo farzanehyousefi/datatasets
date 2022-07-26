@@ -34,5 +34,12 @@
 			"source": "2",
 			"target": "1"
 		}
+	],
+	"categories": [{
+			"name": "A"
+		},
+		{
+			"name": "B"
+		}
 	]
 }
