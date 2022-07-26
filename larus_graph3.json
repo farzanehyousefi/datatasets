@@ -1,0 +1,48 @@
+{
+	"nodes": [
+		{
+			"id": "0",
+			"name": "Larus",
+			"category": 1
+		},
+		{
+			"id": "1",
+			"name": "Labs",
+			"category": 0
+		},
+		{
+			"id": "2",
+			"name": "Consulting",
+			"category": 0
+		},
+		{
+			"id": "3",
+			"name": "Projects",
+			"category": 0
+		}
+	],
+	"links": [{
+			"source": "0",
+			"target": "1",
+			"label":"REL"
+		},
+		{
+			"source": "0",
+			"target": "2",
+			"label":"REL"
+		},
+		{
+			"source": "0",
+			"target": "3",
+			"label":"REL"
+		}
+	],
+	"categories": [
+		{
+			"name": "Tribes"
+		},
+		{
+			"name": "Company"
+		}
+	]
+}
